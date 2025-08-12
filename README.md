@@ -46,7 +46,7 @@
 |------------------|--------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag91920&show_icons=true&theme=radical&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag91920&layout=compact&theme=radical) |
 
-## Contributer Badge
+## Social Media
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
       <a href="https://youtube.com" target="_blank">
         <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white"/>
       </a>
-      <a href="https://9795.anurag.com" target="_blank">
+      <a href="https://www.instagram.com/9795.anurag" target="_blank">
         <img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
       </a>
       <a href="https://www.linkedin.com/in/anurag-chaurasiya-32a2442a5" target="_blank">
@@ -66,7 +66,7 @@
       <a href="mailto:anurag9120959628@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
-      <a href="https://discord.com" target="_blank">
+      <a href="https://discord.com/channels/1392100544558141580" target="_blank">
         <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
       </a>
     </td>
