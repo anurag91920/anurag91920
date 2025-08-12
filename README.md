@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm ANURAG CHAURASIYA</h1>
+<table>
+  <tr>
+    <td>
+
+<h1 align="center">Hi 👋, I'm ANURAG CHAURASIYA </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🚀 I've built **WanderVista (Travel Web App)**, **TradeNest (Zerodha Clone)**, and **ECHOMEET (Zoom Clone)**
@@ -8,7 +12,13 @@
 - 📫 Reach me at **anurag9120959628@gmail.com**
 - 🏆 Core Team Member (Web Developer) at **GirlScript Summer of Code 2024** | GSSoC Contributor
 
----
+</td>
+<td>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="300" />
+</td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack
 
