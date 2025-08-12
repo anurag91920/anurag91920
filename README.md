@@ -14,7 +14,7 @@
 
 </td>
 <td>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="300" />
+  <img src="https://media.istockphoto.com/id/1313050278/vector/young-good-looking-man-using-laptop-and-work.jpg?s=2048x2048&w=is&k=20&c=fkDRoJLWghNqLEzOBHg8Lx7jjh47X7gjk5Yx-RL9yxg=" width="300" />
 </td>
   </tr>
 </table>
