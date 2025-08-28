@@ -10,7 +10,7 @@
 - 🤝 Open to collaborating on **real-world MERN Stack Projects and Open Source Contributions**
 - 💬 Ask me about **Full Stack Development, REST APIs, and Backend Architecture**
 - 📫 Reach me at **anurag9120959628@gmail.com**
-- 🏆 Core Team Member (Web Developer) at **GirlScript Summer of Code 2024** | GSSoC Contributor
+- 🏆 Core Team Member (Web Developer) at **GirlScript Summer of Code 2024** | GSSoC Contributor  , GSSOC, OSCI,  Open Source Connect
 
 </td>
 <td>
