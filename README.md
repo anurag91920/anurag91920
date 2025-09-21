@@ -83,9 +83,14 @@
 </table>
 
 
-### GSSoC (24) Badges 🍂
+## 🏅 Achievements
 
-<img src="https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2F3a741ecb-c8fc-42ef-b3ef-b9ad6f29652b%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4QZE4I5HUY%252F20250812%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20250812T110257Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D638813b1c023fb85ca30e2af2a031e96016510e775070fc4e4b9c9d20817a43e&sign=cLkUjjePHV-Yun_PilrVPz_WuNRlxcBHo1B3Qq5So10" width="80"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/level1.png" width="120" />
+  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/level2.png" width="120" />
+  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/hacktoberfest.png" width="120" />
+  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/opensource.png" width="120" />
+</p>
 
 <!-- Add more as needed -->
 
