@@ -46,6 +46,12 @@
 |------------------|--------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag91920&show_icons=true&theme=radical&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag91920&layout=compact&theme=radical) |
 
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anurag91920&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
+##  GitHub Trophyes
+ 
 ![trophy](https://github-profile-trophy.vercel.app/?username=anurag91920&theme=darkhub&margin-w=15&margin-h=15)
 
 
