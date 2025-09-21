@@ -86,11 +86,12 @@
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/level1.png" width="120" />
-  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/level2.png" width="120" />
-  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/hacktoberfest.png" width="120" />
-  <img src="https://raw.githubusercontent.com/anurag/username/main/assets/opensource.png" width="120" />
+  <img src="https://drive.google.com/uc?export=view&id=1KUSxFu7LhN9xY8BvRa6DV48iHO6Ma8Bq" width="150" />
+  <img src="https://drive.google.com/uc?export=view&id=1f8PHh9X1asLEk-cgSpDc18KRBqTf2j_I" width="150" />
+  <img src="https://drive.google.com/uc?export=view&id=1XFa0tsvCtm9H-DcDdQDaCy3QKq6umQu4" width="150" />
 </p>
+
+
 
 <!-- Add more as needed -->
 
