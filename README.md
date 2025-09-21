@@ -46,6 +46,9 @@
 |------------------|--------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag91920&show_icons=true&theme=radical&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag91920&layout=compact&theme=radical) |
 
+![trophy](https://github-profile-trophy.vercel.app/?username=anurag91920&theme=darkhub&margin-w=15&margin-h=15)
+
+
 ## Social Media
 
 <table>
